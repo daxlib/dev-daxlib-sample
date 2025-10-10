@@ -5,8 +5,8 @@
   "authors": "SQLBI,albertospelta",
   "description": "DaxLib sample library",
   "tags": "DAX,SAMPLE",
-  "releaseNotes": "Added README.md",
-  "projectUrl": "https://github.com/sql-bi/daxlib",
-  "repositoryUrl": "https://github.com/sql-bi/daxlib/tree/main/packages/d/daxlib.sample",
+  "releaseNotes": "Update metadata with new project and repository URLs",
+  "projectUrl": "https://github.com/sql-bi/dev-daxlib-sample",
+  "repositoryUrl": "https://github.com/sql-bi/dev-daxlib-sample",
   "readme": "/README.md"
 }
