@@ -1,6 +1,6 @@
 # DaxLib.Sample
 
-A brief description of the package.
+This is a sample DAX library for demonstration purposes.
 
 ## Usage
 
@@ -17,7 +17,7 @@ EVALUATE
 
 ## Contributing
 
-Contributions are welcome! Please open issues or submit pull requests on GitHub.
+Contributions are welcome! Please open issues or submit pull requests on https://github.com/sql-bi/dev-daxlib-sample
 
 ## License
 
