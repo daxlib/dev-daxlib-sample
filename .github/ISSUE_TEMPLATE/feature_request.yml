@@ -13,14 +13,14 @@ body:
     attributes:
       label: Feature Request
       description:
-        Write a clear and concise description of the feature or problem you would like to see addressed in dev-daxlib-sample.
+        Write a clear and concise description of the feature or problem you would like to see addressed.
     validations:
       required: true
   - type: textarea
     id: proposed-solution
     attributes:
       label: Proposed Solution
-      description: Describe your proposed solution and how it will benefit dev-daxlib-sample and its users.
+      description: Describe your proposed solution and its benefits for the project and its users.
     validations:
       required: true
   - type: textarea
