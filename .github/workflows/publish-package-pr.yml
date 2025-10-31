@@ -100,10 +100,6 @@ jobs:
         working-directory: upstream-repo
         run: |
           FUNCTIONS_FILE="${{ steps.package.outputs.folder }}/lib/functions.tmdl"
-          if [[ ! -f "${FUNCTIONS_FILE}" ]]; then
-            echo "Error: ${FUNCTIONS_FILE} not found"
-            exit 1
-          fi
           sed -i "s/__PLACEHOLDER_PACKAGE_ID__/${{ steps.package.outputs.name }}/g" "${FUNCTIONS_FILE}"
           sed -i "s/__PLACEHOLDER_PACKAGE_VERSION__/${{ steps.package.outputs.version }}/g" "${FUNCTIONS_FILE}"
 
