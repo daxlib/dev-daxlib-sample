@@ -5,8 +5,14 @@
   "authors": "SQLBI,albertospelta",
   "description": "DaxLib sample library",
   "tags": "DAX,SAMPLE",
-  "releaseNotes": "Update metadata with new project and repository URLs",
+  "releaseNotes": "Add dependencies to the manifest",
   "projectUrl": "https://github.com/daxlib/dev-daxlib-sample",
   "repositoryUrl": "https://github.com/daxlib/dev-daxlib-sample",
-  "readme": "/README.md"
+  "readme": "/README.md",
+  "dependencies": [
+    {
+      "id": "DaxLib.Record",
+      "version": "0.1.9"
+    }
+  ]
 }
