@@ -6,7 +6,7 @@
   "description": "DaxLib sample library",
   "tags": "DAX,SAMPLE",
   "releaseNotes": "Update metadata with new project and repository URLs",
-  "projectUrl": "https://github.com/sql-bi/dev-daxlib-sample",
-  "repositoryUrl": "https://github.com/sql-bi/dev-daxlib-sample",
+  "projectUrl": "https://github.com/daxlib/dev-daxlib-sample",
+  "repositoryUrl": "https://github.com/daxlib/dev-daxlib-sample",
   "readme": "/README.md"
 }
