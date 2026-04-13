@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/daxlib/daxlib/refs/heads/main/schemas/manifest/1.0.0/manifest.1.0.0.schema.json",
   "id": "DaxLib.Sample",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "authors": "SQLBI,albertospelta",
   "description": "DaxLib sample library",
   "tags": "DAX,SAMPLE",
